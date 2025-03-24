@@ -1,3 +1,63 @@
-.SeR{
-font: size 35px;
+body {
+    background-image: url(941ce6487ac492ae725ee9516c99b264.1000x1000x1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 0;
+    padding: 0%;
+    
+}
+
+.Titulo {
+    font-size: 45px;
+    font-family: monospace;
+    font-weight: 90;
+    align-items: center;
+    text-align: center;
+}
+
+.Sub {
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+
+.sobre {
+    font-size: 35px;
+    color: #000000;
+    font-style: italic;
+}
+
+.Img {
+    width: 25%;
+}
+
+.Ng {
+    font-size: 35px;
+    font-style: italic;
+}
+
+.btn {
+
+    padding: 10px;
+    background-color: black;
+}
+
+.btn2 {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.First {
+    background-color: black;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.textbtn {
+    font-size: 35px;
+    color: black;
+    font-style: italic;
 }
