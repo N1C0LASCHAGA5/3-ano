@@ -8,6 +8,7 @@ body {
 }
 
 .Titulo {
+    color: rgb(0, 0, 0);
     font-size: 45px;
     font-family: monospace;
     font-weight: 90;
@@ -22,7 +23,7 @@ body {
 }
 
 .sobre {
-    font-size: 35px;
+    font-size: 25px;
     color: #000000;
     font-style: italic;
 }
@@ -39,25 +40,31 @@ body {
 .btn {
 
     padding: 10px;
-    background-color: black;
+    background-color: rgb(255, 92, 92);
 }
 
 .btn2 {
-    color: white;
+    color: rgb(10, 8, 8);
     font-size: 30px;
     text-decoration: none;
     align-items: center;
+    cursor: pointer;
 }
 
 .First {
-    background-color: black;
+    background-color: rgb(255, 92, 92);
     border-radius: 20px;
     cursor: pointer;
     text-align: center;
+
 }
 
 .textbtn {
     font-size: 35px;
     color: black;
     font-style: italic;
+}
+
+.mk1{
+    background-color: rgb(255, 92, 92);
 }

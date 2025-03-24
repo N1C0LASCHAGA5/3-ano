@@ -1,0 +1,24 @@
+body {
+    background-image: url(941ce6487ac492ae725ee9516c99b264.1000x1000x1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 0;
+    padding: 0%;
+    
+}
+
+.mark1{
+   background-color:rgb(132, 248, 209);
+}
+
+.mark2{
+    background-color: rgb(132, 248, 209);
+}
+
+.mark3{
+    background-color: rgb(132, 248, 209);
+}
+
+.sub{
+    font-style: italic;
+}
